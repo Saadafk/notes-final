@@ -1,0 +1,54 @@
+#body{
+    background-image: url(canva.png);
+}
+
+.goodbar{
+    background-color: hsl(156, 15%, 62%);
+}
+#butt{
+    background-color: hsl(158, 39%, 76%);
+}
+li #logout:hover{
+background-color: rgb(253, 0, 0);
+}
+
+#dropelements:hover{
+    background-color: hsl(156, 15%, 62%);
+}
+#img{
+    padding-right: 5px;
+    
+}
+#logininputparent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 700px;
+}
+
+
+
+#logininput{
+    padding: 35px;
+   background-color:hsl(156, 15%, 62%) ;
+   border-radius: 15px;
+  
+}
+#notesparent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+min-height: 850px;
+}
+
+#notes{
+    margin: 25px;
+   flex-grow: 1;
+   max-width: 800px;
+   
+
+}
+
+
+ 
+
